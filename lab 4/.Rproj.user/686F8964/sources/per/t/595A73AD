@@ -1,0 +1,26 @@
+{
+    "id": "595A73AD",
+    "path": "~/UFM/sexto semestre/data product/shiny/tablas/server.R",
+    "project_path": null,
+    "type": "r_source",
+    "hash": "1519788863",
+    "contents": "",
+    "dirty": false,
+    "created": 1695609315297.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "17,6",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1692060312,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1692060312,
+    "read_only": false,
+    "read_only_alternatives": []
+}
